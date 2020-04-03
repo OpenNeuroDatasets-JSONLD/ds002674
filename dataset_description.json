@@ -1,0 +1,27 @@
+{
+  "Name": "28andMe",
+  "BIDSVersion": "1.2.2",
+  "License": "CC0",
+  "Authors": [
+    "Laura Pritschet",
+    "Tyler Santander",
+    "Caitlin M. Taylor",
+    "Evan Layher", 
+    "Shuying Yu",
+    "Michael B. Miller",
+    "Scott T. Grafton",
+    "Emily G. Jacobs"
+  ],
+  "Acknowledgements": "Thanks to Mario Mendoza for phlebotomy and MRI assistance. We would also like to thank Courtney Kenyon, Maggie Hayes, and Morgan Fitzgerald for assistance with data collection",
+  "HowToAcknowledge": "Please cite this paper: https://www.biorxiv.org/content/10.1101/866913v1",
+  "Funding": [
+    "Brain and Behavior Research Foundation",
+    "California Nanosystems Institute",
+    "Institute for Collaborative Biotechnologies through US Army Research Office W911NF-19-D-0001",
+    "Rutherford B. Fett Fund"
+  ],
+  "ReferencesAndLinks": [
+    "https://www.biorxiv.org/content/10.1101/866913v1"
+  ],
+  "DatasetDOI": "10.0.2.3/dfjj.10"
+}
