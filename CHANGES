@@ -1,3 +1,5 @@
+1.0.3 2020-07-09
+  - 30 new sessions of anatomical scans, updated participant log, dataset description, and README
 1.0.2 2020-04-17
   - fixed 'task-rest' files for ses-01, ses-29, and ses-30 
 1.0.1 2020-04-03
