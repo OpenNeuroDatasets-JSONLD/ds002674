@@ -1,4 +1,4 @@
-participant	session_id	poms_tension	poms_depression	poms_anger	poms_vigor	poms_fatigue	poms_confusion	psqi	state_anxiety	perceived_stress	total_calorie_intake
+participant_id	session_id	poms_tension	poms_depression	poms_anger	poms_vigor	poms_fatigue	poms_confusion	psqi	state_anxiety	perceived_stress	total_calorie_intake
 sub-01	ses-01	12	4	3	10	1	5	9	55	18	2340
 sub-01	ses-02	4	1	0	14	0	4	4	36	12	1443
 sub-01	ses-03	13	10	4	4	2	6	2	58	9	1430
